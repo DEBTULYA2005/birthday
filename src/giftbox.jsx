@@ -261,36 +261,58 @@ const signatureContainer = {
         <div style={{...heartStyle, animation: "heartBeat 2s ease-in-out infinite"}}>💖</div>
         
         <h1 style={titleStyle}>
-          To My Special Someone 💕
+          💖 Happy Birthday to My One and Only, Shrushti 💖
         </h1>
         
         <div style={letterContentStyle}>
-          <p style={paragraphStyle}>My Dearest,</p>
+          <p style={paragraphStyle}>My Dearest, Shrushti</p>
           
           <p style={paragraphStyle}>
-            Every day with you feels like a beautiful dream come true. 
-            Your smile brightens my darkest days, and your laughter is my favorite melody. 
-            I feel so incredibly lucky to have you in my life.
+            Even though miles separate us today, my heart feels closer to you than ever. 
+            Distance might keep us apart physically, but it can never stop the love I have for you, 
+            the warmth I feel when I think of you, and the happiness your presence brings 
+            into my life — even from far away.
           </p>
           
           <p style={paragraphStyle}>
-            You make ordinary moments extraordinary just by being there. 
-            Whether we're talking for hours or sitting in comfortable silence, 
-            every second with you is precious to me.
+            Shrushti, you are truly one of a kind. 
+            You’ve filled my life with so much light, love, and meaning. 
+            Every message, every call, every laugh we’ve shared has built a connection that not even distance can break. 
+            I miss you every single day, but at the same time, I feel so lucky to have someone as beautiful and pure-hearted as you in my life.
           </p>
           
           <p style={paragraphStyle}>
-            I cherish the way you care, the way you understand me without words, 
-            and the beautiful person you are. You've touched my heart in ways 
-            I never thought possible.
+            On your special day, I just want you to know that you are my favorite person in this whole world. 
+            You deserve nothing less than endless happiness, genuine love, and countless smiles — today and always. 
+            I wish I could be there with you, holding your hand, looking into your eyes, 
+            and celebrating this day side by side… but until that day comes, 
+            I’m sending you all my love wrapped in a thousand hugs and a million kisses. 💌
           </p>
           
           <p style={paragraphStyle}>
-            This is just a small token to remind you how much you mean to me. 
-            You are loved, you are appreciated, and you are the most wonderful gift in my life.
+            May this birthday bring you closer to your dreams, 
+            may your heart always stay as kind and beautiful as it is, 
+            and may every moment today remind you how loved you are — not just by everyone around you, 
+            but especially by me.
+          </p>
+
+          <p style={paragraphStyle}>
+            You’re not just my girlfriend, Shrushti — you’re my peace, my motivation, 
+            and my reason to keep going when life gets hard. 
+            Thank you for staying by my side even through the distance, for trusting me, 
+            for loving me the way you do. You make every moment worth it.
+          </p>
+
+          <p style={paragraphStyle}>
+            So, on this special day, I want to promise you once again — no matter how far we are, 
+            no matter how long it takes, I’ll keep loving you more with every sunrise and miss you a little extra 
+            with every sunset until the day I can finally call you mine in person. ❤
           </p>
           
-          <p style={paragraphStyle}>Forever and always,</p>
+          <p style={paragraphStyle}>
+            Happy Birthday once again, my princess, my heartbeat, my forever — Shrushti 🎂💫
+            I love you endlessly and can’t wait for the day I get to celebrate this day by your side. 💞
+          </p>
         </div>
         
         <div style={signatureContainer}>
