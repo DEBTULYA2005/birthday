@@ -261,7 +261,7 @@ const signatureContainer = {
         <div style={{...heartStyle, animation: "heartBeat 2s ease-in-out infinite"}}>💖</div>
         
         <h1 style={titleStyle}>
-          💖 Happy Birthday to My One and Only, Shrushti 💖
+          Happy Birthday to My One and Only, Shrushti 💖
         </h1>
         
         <div style={letterContentStyle}>
