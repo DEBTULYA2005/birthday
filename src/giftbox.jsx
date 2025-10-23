@@ -1,22 +1,23 @@
 import React from "react";
 import fourGif from "./assets/four.gif";
 import balloonGif from "./assets/balloon.gif";
+import balloongif2 from "./assets/balloon2.gif";
 
 const GiftPage = () => {
   // Balloon colors and styles
   const balloons = [
-    { id: 1, src: balloonGif, left: "0.5%", delay: "8.2s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
+    { id: 1, src: balloongif2, left: "0.5%", delay: "8.2s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
     { id: 2, src: balloonGif, left: "2.5%", delay: "0.2s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
     { id: 3, src: balloonGif, left: "10%", delay: "6.6s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
-    { id: 4, src: balloonGif, left: "20%", delay: "0.4s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
-    { id: 5, src: balloonGif, left: "30%", delay: "7.0s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
+    { id: 4, src: balloongif2, left: "20%", delay: "0.4s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
+    { id: 5, src: balloongif2, left: "30%", delay: "7.0s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
     { id: 6, src: balloonGif, left: "40%", delay: "0.6s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
     { id: 7, src: balloonGif, left: "50%", delay: "6.8s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
-    { id: 8, src: balloonGif, left: "60%", delay: "0.3s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
-    { id: 9, src: balloonGif, left: "70%", delay: "8.2s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
+    { id: 8, src: balloongif2, left: "60%", delay: "0.3s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
+    { id: 9, src: balloongif2, left: "70%", delay: "8.2s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
     { id: 10, src: balloonGif, left: "80%", delay: "1.5s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
     { id: 11, src: balloonGif, left: "90%", delay: "6.4s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Odd
-    { id: 12, src: balloonGif, left: "98%", delay: "7.7s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
+    { id: 12, src: balloongif2, left: "98%", delay: "7.7s", size: "clamp(65px, 9vw, 85px)", zIndex: 999 }, // Even
   ];
 
   const containerStyle = {
@@ -79,7 +80,7 @@ const GiftPage = () => {
 
   const paragraphStyle = {
     marginBottom: "clamp(18px, 4vw, 25px)",
-    textAlign: "left",
+    textAlign: "justify",
     fontSize: "inherit",
     position: "relative",
     zIndex: 12,
@@ -240,6 +241,16 @@ const signatureContainer = {
     }
   `;
 
+  const name = {
+    color: "#d63346",
+    marginBottom: "clamp(25px, 5vw, 35px)",
+    fontSize: "clamp(1.4rem, 5.5vw, 2.3rem)",
+    textShadow: "1px 1px 2px rgba(0,0,0,0.1)",
+    lineHeight: "1.3",
+    position: "relative",
+    zIndex: 12,
+  };
+
   // Replace this with your actual GIF import
   const loveGif = fourGif; // Kiss GIF
 
@@ -261,11 +272,11 @@ const signatureContainer = {
         <div style={{...heartStyle, animation: "heartBeat 2s ease-in-out infinite"}}>💖</div>
         
         <h1 style={titleStyle}>
-          Happy Birthday to My One and Only, Shrushti 💖
+          Happy Birthday to My One and Only, <b style={name}>Shrushti</b>
         </h1>
         
         <div style={letterContentStyle}>
-          <p style={paragraphStyle}>My Dearest, Shrushti</p>
+          <p style={paragraphStyle}>My Dearest, <b style={name}>Shrushti</b></p>
           
           <p style={paragraphStyle}>
             Even though miles separate us today, my heart feels closer to you than ever. 
@@ -319,7 +330,7 @@ const signatureContainer = {
           <img src={fourGif} alt="Cute love animation" style={singleGifStyle} />
           <p style={signatureStyle}>
             With all my love,<br />
-            Your Secret Admirer 💝
+            Your Debraj 💝
           </p>
         </div>
       </div>
