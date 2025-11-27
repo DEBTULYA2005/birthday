@@ -300,7 +300,7 @@ const signatureContainer = {
           <img src={fourGif} alt="Cute love animation" style={singleGifStyle} />
           <p style={signatureStyle}>
             With all my Best Wishes,<br />
-            Your Friend Debraj 💝
+            Your Friend Buggu 💝
           </p>
         </div>
       </div>
