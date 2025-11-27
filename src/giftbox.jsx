@@ -272,65 +272,35 @@ const signatureContainer = {
         <div style={{...heartStyle, animation: "heartBeat 2s ease-in-out infinite"}}>💖</div>
         
         <h1 style={titleStyle}>
-          Happy Birthday to My One and Only, <b style={name}>Shrushti</b>
+          Happy Birthday to , <b style={name}>Rani! 🎉💗</b>
         </h1>
         
         <div style={letterContentStyle}>
-          <p style={paragraphStyle}>My Dearest, <b style={name}>Shrushti</b></p>
+          <p style={paragraphStyle}>My Besti, <b style={name}>Rani!</b></p>
           
           <p style={paragraphStyle}>
-            Even though miles separate us today, my heart feels closer to you than ever. 
-            Distance might keep us apart physically, but it can never stop the love I have for you, 
-            the warmth I feel when I think of you, and the happiness your presence brings 
-            into my life — even from far away.
+            To my best friend, my constant supporter, and the person who understands me better than anyone—today is your day, and I hope it becomes as beautiful as your heart. You’ve been with me in every high and every low, and no matter what life throws at us, you’re always the one who brings laughter, comfort, and positivity.
           </p>
           
           <p style={paragraphStyle}>
-            Shrushti, you are truly one of a kind. 
-            You’ve filled my life with so much light, love, and meaning. 
-            Every message, every call, every laugh we’ve shared has built a connection that not even distance can break. 
-            I miss you every single day, but at the same time, I feel so lucky to have someone as beautiful and pure-hearted as you in my life.
+            I’m genuinely grateful for every moment we’ve shared, every stupid joke we laughed at, every late-night talk, and every memory that turned our friendship into something unbreakable.
           </p>
           
           <p style={paragraphStyle}>
-            On your special day, I just want you to know that you are my favorite person in this whole world. 
-            You deserve nothing less than endless happiness, genuine love, and countless smiles — today and always. 
-            I wish I could be there with you, holding your hand, looking into your eyes, 
-            and celebrating this day side by side… but until that day comes, 
-            I’m sending you all my love wrapped in a thousand hugs and a million kisses. 💌
+            You deserve the best things in life—happiness that stays, success that grows, and love that feels effortless. I hope this year brings you closer to your dreams and fills your life with moments you’ll treasure forever.
           </p>
           
           <p style={paragraphStyle}>
-            May this birthday bring you closer to your dreams, 
-            may your heart always stay as kind and beautiful as it is, 
-            and may every moment today remind you how loved you are — not just by everyone around you, 
-            but especially by me.
-          </p>
+            Thank you for being the kind of friend that makes life feel lighter and brighter. Enjoy your day to the fullest, Rani. I’ll always be here for you, no matter what. 🥳💞✨
 
-          <p style={paragraphStyle}>
-            You’re not just my girlfriend, Shrushti — you’re my peace, my motivation, 
-            and my reason to keep going when life gets hard. 
-            Thank you for staying by my side even through the distance, for trusting me, 
-            for loving me the way you do. You make every moment worth it.
-          </p>
-
-          <p style={paragraphStyle}>
-            So, on this special day, I want to promise you once again — no matter how far we are, 
-            no matter how long it takes, I’ll keep loving you more with every sunrise and miss you a little extra 
-            with every sunset until the day I can finally call you mine in person. ❤
-          </p>
-          
-          <p style={paragraphStyle}>
-            Happy Birthday once again, my princess, my heartbeat, my forever — Shrushti 🎂💫
-            I love you endlessly and can’t wait for the day I get to celebrate this day by your side. 💞
           </p>
         </div>
         
         <div style={signatureContainer}>
           <img src={fourGif} alt="Cute love animation" style={singleGifStyle} />
           <p style={signatureStyle}>
-            With all my love,<br />
-            Your Debraj 💝
+            With all my Best Wishes,<br />
+            Your Friend Debraj 💝
           </p>
         </div>
       </div>
